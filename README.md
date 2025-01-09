@@ -4,7 +4,7 @@
 
 > [!WARNING]
 > __警告：禁止使用本仓库内的任何内容牟利！如需转载请 ` 标明作者 ` 或 ` 注明来源 `__
-
+> 此仓库原作者是LOWERTOP(https://github.com/LOWERTOP) 我只是复制一份方便查看另外做个备份
 ------
 
 ## [Shadowrocket-First 仓库自述](https://github.com/LOWERTOP/Shadowrocket-First)
